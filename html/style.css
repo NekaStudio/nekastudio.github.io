@@ -1,0 +1,42 @@
+
+
+[href="https://www.youtube.com/?hl=uk&gl=UA"]{
+  color: orange;
+}
+
+[border="3"] {
+  color: green;
+}
+
+.table-blue {
+  color: blue;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+.table-bold {
+  font-weight: bold;
+}
+
+#ideveloper {
+  font-weight: bold;
+}
+
+.font-size-md {
+   font-size: 20px;
+}
+
+.font-size-md.color-red {
+  color: red;
+}
+
+.font-size-md.color-gray {
+  color: gray;
+}
+
+.button-s1 {
+  font-weight: bold;
+  font-size: 15px;
+  color: #FF0011;
+  border-radius: 20px;
+}
